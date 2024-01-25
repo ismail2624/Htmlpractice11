@@ -1,0 +1,12 @@
+#videohookha{
+    width: 100%;
+}
+
+
+td,th{
+    border: 2px solid black;
+    padding: 10px;
+}
+table{
+    border-collapse: collapse;
+}
